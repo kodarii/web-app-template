@@ -3,7 +3,8 @@
   "specifiers": {
     "jsr:@hono/hono@^4.6.6": "4.6.6",
     "jsr:@std/assert@1": "1.0.6",
-    "jsr:@std/internal@^1.0.4": "1.0.4"
+    "jsr:@std/internal@^1.0.4": "1.0.4",
+    "npm:create-vite@latest": "5.5.4"
   },
   "jsr": {
     "@hono/hono@4.6.6": {
@@ -17,6 +18,11 @@
     },
     "@std/internal@1.0.4": {
       "integrity": "62e8e4911527e5e4f307741a795c0b0a9e6958d0b3790716ae71ce085f755422"
+    }
+  },
+  "npm": {
+    "create-vite@5.5.4": {
+      "integrity": "sha512-r6tVDLWJpjCKoonv8F1LUAP6ksTS6J2raqBbsdnvth05ihJT74jBhl25PiEcrAQvuVqureOsYRCfI6Qwa+Lj4Q=="
     }
   },
   "workspace": {
